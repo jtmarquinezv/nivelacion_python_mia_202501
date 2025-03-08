@@ -1,8 +1,30 @@
-MIA 5
-MTIG 7
-MGPI 10
-MBA 2
-MHM 20
-MBD 12
-MArq 5
-Mart 5
+Alan Turing,MTIG  
+Eloisa Diaz,MIA  
+Gustave Eiffel,MTIG  
+Ada Lovelace,MTIG  
+Larry King,MGPI  
+Jonas Salk,MIA  
+Grace Hopper,MTIG  
+Pablo Neruda,MBD  
+Frida Kahlo,MIA  
+Diego Rivera,MGPI  
+Gabriela Mistral,MHM  
+Antonio Banderas,MArq  
+Salvador Dalí,MTIG  
+Penélope Cruz,MBA  
+Isabel Allende,MIA  
+Gael García Bernal,MBD  
+Shakira,Mart  
+Julio Iglesias,MIA  
+Carlos Santana,MBA  
+Rafael Nadal,MTIG  
+Pedro Pascal,MGPI  
+Paz Vega,MHM  
+Lorena Ochoa,MBD  
+Rosalía,Mart  
+Javier Bardem,MBA  
+Antonio Gaudí,MArq  
+Montserrat Caballé,MIA  
+Luis Buñuel,MGPI  
+Fernando Alonso,MHM  
+Penélope Cruz,MBD  
