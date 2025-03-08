@@ -1,0 +1,8 @@
+MIA 5
+MTIG 7
+MGPI 10
+MBA 2
+MHM 20
+MBD 12
+MArq 5
+Mart 5
